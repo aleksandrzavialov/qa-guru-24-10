@@ -3,8 +3,8 @@ package pages.components;
 import data.HeaderTranslations;
 import data.Language;
 import static com.codeborne.selenide.CollectionCondition.texts;
-import static com.codeborne.selenide.Condition.text;
 import static com.codeborne.selenide.Selenide.$;
+import static com.codeborne.selenide.Condition.text;
 import static com.codeborne.selenide.Selenide.$$;
 
 public class HeaderComponent {
